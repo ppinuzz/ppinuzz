@@ -5,6 +5,6 @@
 - 📫 How to reach me: andrepinardi319@gmail.com
 
 <!---
-PinuzFEM/PinuzFEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ppinuzz/ppinuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
