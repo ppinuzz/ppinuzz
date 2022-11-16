@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PinuzFEM
+- 👋 Hi, I’m @ppinuzz
 - 👀 I’m interested in scientific computing, regarding both the implementation of algorithms and the discretisation of continuous problems
 - 🌱 I’m currently learning MATLAB, Python and C++ for scientific computing (maybe Fortran and Julia in the future)
 - 💞️ I’m looking to collaborate on...
