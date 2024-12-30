@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ppinuzz
-- 👀 I’m interested in scientific computing, regarding both the implementation of algorithms and the discretisation of continuous problems
-- 🌱 I’m currently learning Julia and Python for scientific computing (possibly Fortran or C++ in the future)
-- 💞️ I’m looking to collaborate on...
+- 👀 I’m interested in applied scientific computing, especially computational fluid dynamics (CFD) and turbomachinery design codes
+- 🌱 I’m currently learning C and actively working with Python and MATLAB
+- 💞️ I’m looking to collaborate on... feel free to drop any suggestion!
 - 📫 How to reach me: andrepinardi319@gmail.com
 
 <!---
