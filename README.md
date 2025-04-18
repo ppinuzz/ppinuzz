@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ppinuzz
+- 👋 Hi, I’m @ppinuzz and I'm currently a PhD student at Politecnico di Milano in Energy and Nuclear Science and Technology
 - 👀 I’m interested in applied scientific computing, especially computational fluid dynamics (CFD) and turbomachinery design codes
-- 🌱 I’m currently learning C and actively working with Python and MATLAB
+- 🌱 I’m actively working with Python and MATLAB while fiddling around with C
 - 💞️ I’m looking to collaborate on... feel free to drop any suggestion!
 - 📫 How to reach me: andrepinardi319@gmail.com
 
